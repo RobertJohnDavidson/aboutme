@@ -10,5 +10,5 @@ My work at CBC can be found at the following links:
 - [Climate Dashboard](https://newsinteractives.cbc.ca/features/2023/climate-dashboard/)
 - [North West Territory Election Results 2023](https://newsinteractives.cbc.ca/elections/northwest-territories/2023/results/)
 - [Toronto Mayoral Platforms 2023](https://newsinteractives.cbc.ca/features/2023/toronto-mayoral-platforms/)
-
+- [US Election Results 2024](https://newsinteractives.cbc.ca/elections/us/2024/results/)
 
